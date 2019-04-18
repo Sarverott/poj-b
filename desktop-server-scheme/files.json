@@ -1,0 +1,296 @@
+[
+    {
+        "binary": false, 
+        "mime": "application/json", 
+        "realpath": "../construct-build/appmanifest.json", 
+        "servepath": "/appmanifest.json"
+    }, 
+    {
+        "binary": false, 
+        "mime": "application/json", 
+        "realpath": "../construct-build/data.json", 
+        "servepath": "/data.json"
+    }, 
+    {
+        "binary": false, 
+        "mime": "text/plain", 
+        "realpath": "../construct-build/elevator-music-readme.txt", 
+        "servepath": "/elevator-music-readme.txt"
+    }, 
+    {
+        "binary": false, 
+        "mime": "text/html", 
+        "realpath": "../construct-build/index.html", 
+        "servepath": "/index.html"
+    }, 
+    {
+        "binary": false, 
+        "mime": "application/javascript", 
+        "realpath": "../construct-build/sw.js", 
+        "servepath": "/sw.js"
+    }, 
+    {
+        "binary": false, 
+        "mime": "application/json", 
+        "realpath": "../construct-build/offline.json", 
+        "servepath": "/offline.json"
+    }, 
+    {
+        "binary": false, 
+        "mime": "text/css", 
+        "realpath": "../construct-build/style.css", 
+        "servepath": "/style.css"
+    }, 
+    {
+        "binary": true, 
+        "mime": "image/png", 
+        "realpath": "../construct-build/icons/loading-logo.png", 
+        "servepath": "/icons/loading-logo.png"
+    }, 
+    {
+        "binary": true, 
+        "mime": "image/png", 
+        "realpath": "../construct-build/icons/icon-32.png", 
+        "servepath": "/icons/icon-32.png"
+    }, 
+    {
+        "binary": true, 
+        "mime": "image/png", 
+        "realpath": "../construct-build/icons/icon-128.png", 
+        "servepath": "/icons/icon-128.png"
+    }, 
+    {
+        "binary": true, 
+        "mime": "image/png", 
+        "realpath": "../construct-build/icons/icon-256.png", 
+        "servepath": "/icons/icon-256.png"
+    }, 
+    {
+        "binary": true, 
+        "mime": "image/png", 
+        "realpath": "../construct-build/icons/icon-16.png", 
+        "servepath": "/icons/icon-16.png"
+    }, 
+    {
+        "binary": true, 
+        "mime": "image/png", 
+        "realpath": "../construct-build/icons/icon-512.png", 
+        "servepath": "/icons/icon-512.png"
+    }, 
+    {
+        "binary": true, 
+        "mime": "image/png", 
+        "realpath": "../construct-build/icons/icon-64.png", 
+        "servepath": "/icons/icon-64.png"
+    }, 
+    {
+        "binary": true, 
+        "mime": "audio/mpeg", 
+        "realpath": "../construct-build/media/elevator-music.mp3", 
+        "servepath": "/media/elevator-music.mp3"
+    }, 
+    {
+        "binary": true, 
+        "mime": "audio/mpeg", 
+        "realpath": "../construct-build/media/noisy-wind.mp3", 
+        "servepath": "/media/noisy-wind.mp3"
+    }, 
+    {
+        "binary": true, 
+        "mime": "image/png", 
+        "realpath": "../construct-build/images/shared-0-sheet1.png", 
+        "servepath": "/images/shared-0-sheet1.png"
+    }, 
+    {
+        "binary": true, 
+        "mime": "image/png", 
+        "realpath": "../construct-build/images/tiledbackground-sheet0.png", 
+        "servepath": "/images/tiledbackground-sheet0.png"
+    }, 
+    {
+        "binary": true, 
+        "mime": "image/png", 
+        "realpath": "../construct-build/images/shared-0-sheet2.png", 
+        "servepath": "/images/shared-0-sheet2.png"
+    }, 
+    {
+        "binary": true, 
+        "mime": "image/png", 
+        "realpath": "../construct-build/images/shared-0-sheet0.png", 
+        "servepath": "/images/shared-0-sheet0.png"
+    }, 
+    {
+        "binary": false, 
+        "mime": "application/javascript", 
+        "realpath": "../construct-build/scripts/dispatchWorker.js", 
+        "servepath": "/scripts/dispatchWorker.js"
+    }, 
+    {
+        "binary": false, 
+        "mime": "application/javascript", 
+        "realpath": "../construct-build/scripts/c3runtime.js", 
+        "servepath": "/scripts/c3runtime.js"
+    }, 
+    {
+        "binary": false, 
+        "mime": "application/javascript", 
+        "realpath": "../construct-build/scripts/main.js", 
+        "servepath": "/scripts/main.js"
+    }, 
+    {
+        "binary": false, 
+        "mime": "application/javascript", 
+        "realpath": "../construct-build/scripts/offlineClient.js", 
+        "servepath": "/scripts/offlineClient.js"
+    }, 
+    {
+        "binary": false, 
+        "mime": "application/javascript", 
+        "realpath": "../construct-build/scripts/jobWorker.js", 
+        "servepath": "/scripts/jobWorker.js"
+    }, 
+    {
+        "binary": false, 
+        "mime": "application/javascript", 
+        "realpath": "../construct-build/scripts/supportCheck.js", 
+        "servepath": "/scripts/supportCheck.js"
+    }, 
+    {
+        "binary": false, 
+        "mime": "application/javascript", 
+        "realpath": "../construct-build/scripts/register-sw.js", 
+        "servepath": "/scripts/register-sw.js"
+    }, 
+    {
+        "binary": false, 
+        "mime": "application/javascript", 
+        "realpath": "../construct-build/scripts/workerMain.js", 
+        "servepath": "/scripts/workerMain.js"
+    }, 
+    {
+        "binary": true, 
+        "mime": "image/png", 
+        "realpath": "../construct-build/loading-logo.png", 
+        "servepath": "/loading-logo.png"
+    }, 
+    {
+        "binary": true, 
+        "mime": "image/png", 
+        "realpath": "../construct-build/icon-32.png", 
+        "servepath": "/icon-32.png"
+    }, 
+    {
+        "binary": true, 
+        "mime": "image/png", 
+        "realpath": "../construct-build/icon-128.png", 
+        "servepath": "/icon-128.png"
+    }, 
+    {
+        "binary": true, 
+        "mime": "image/png", 
+        "realpath": "../construct-build/icon-256.png", 
+        "servepath": "/icon-256.png"
+    }, 
+    {
+        "binary": true, 
+        "mime": "image/png", 
+        "realpath": "../construct-build/icon-16.png", 
+        "servepath": "/icon-16.png"
+    }, 
+    {
+        "binary": true, 
+        "mime": "image/png", 
+        "realpath": "../construct-build/icon-512.png", 
+        "servepath": "/icon-512.png"
+    }, 
+    {
+        "binary": true, 
+        "mime": "image/png", 
+        "realpath": "../construct-build/icon-64.png", 
+        "servepath": "/icon-64.png"
+    }, 
+    {
+        "binary": true, 
+        "mime": "audio/mpeg", 
+        "realpath": "../construct-build/elevator-music.mp3", 
+        "servepath": "/elevator-music.mp3"
+    }, 
+    {
+        "binary": true, 
+        "mime": "audio/mpeg", 
+        "realpath": "../construct-build/noisy-wind.mp3", 
+        "servepath": "/noisy-wind.mp3"
+    }, 
+    {
+        "binary": true, 
+        "mime": "image/png", 
+        "realpath": "../construct-build/shared-0-sheet1.png", 
+        "servepath": "/shared-0-sheet1.png"
+    }, 
+    {
+        "binary": true, 
+        "mime": "image/png", 
+        "realpath": "../construct-build/tiledbackground-sheet0.png", 
+        "servepath": "/tiledbackground-sheet0.png"
+    }, 
+    {
+        "binary": true, 
+        "mime": "image/png", 
+        "realpath": "../construct-build/shared-0-sheet2.png", 
+        "servepath": "/shared-0-sheet2.png"
+    }, 
+    {
+        "binary": true, 
+        "mime": "image/png", 
+        "realpath": "../construct-build/shared-0-sheet0.png", 
+        "servepath": "/shared-0-sheet0.png"
+    }, 
+    {
+        "binary": false, 
+        "mime": "application/javascript", 
+        "realpath": "../construct-build/dispatchWorker.js", 
+        "servepath": "/dispatchWorker.js"
+    }, 
+    {
+        "binary": false, 
+        "mime": "application/javascript", 
+        "realpath": "../construct-build/c3runtime.js", 
+        "servepath": "/c3runtime.js"
+    }, 
+    {
+        "binary": false, 
+        "mime": "application/javascript", 
+        "realpath": "../construct-build/main.js", 
+        "servepath": "/main.js"
+    }, 
+    {
+        "binary": false, 
+        "mime": "application/javascript", 
+        "realpath": "../construct-build/offlineClient.js", 
+        "servepath": "/offlineClient.js"
+    }, 
+    {
+        "binary": false, 
+        "mime": "application/javascript", 
+        "realpath": "../construct-build/jobWorker.js", 
+        "servepath": "/jobWorker.js"
+    }, 
+    {
+        "binary": false, 
+        "mime": "application/javascript", 
+        "realpath": "../construct-build/supportCheck.js", 
+        "servepath": "/supportCheck.js"
+    }, 
+    {
+        "binary": false, 
+        "mime": "application/javascript", 
+        "realpath": "../construct-build/register-sw.js", 
+        "servepath": "/register-sw.js"
+    }, 
+    {
+        "binary": false, 
+        "mime": "application/javascript", 
+        "realpath": "../construct-build/workerMain.js", 
+        "servepath": "/workerMain.js"
+    }
+]

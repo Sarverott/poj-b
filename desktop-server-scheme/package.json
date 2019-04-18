@@ -1,0 +1,12 @@
+{
+  "name": "desktop-server-scheme",
+  "version": "1.0.0",
+  "description": "app to handle html/css/js games projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js --test",
+    "start": "electron index.js"
+  },
+  "author": "Sett Sarverott",
+  "license": "ISC"
+}
