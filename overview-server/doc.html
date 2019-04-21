@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>POJ_B</title>
+    <style>
+      a{
+        text-decoration: none;
+        color:red;
+      }
+      a:hover{
+        color:white;
+      }
+      h1{
+        font-size:40px;
+        text-align: center;
+      }
+      button{
+        font-family:monospace;
+        font-size:20px;
+        background: #000;
+        border:red 1px dashed;
+        color:red;
+      }
+      button:hover{
+        background: #300;
+        border:#fff 1px dotted;
+        color:#fff;
+      }
+      body{
+        font-family:monospace;
+        color:#aaa;
+        background: #000;
+        margin: 0;
+        padding:100px 0;
+      }
+      main, header, footer{
+        margin:5px auto;
+        width:800px;
+        padding:20px;
+        border:solid 1px #300;
+      }
+      footer{
+        text-align:center;
+        position:fixed;
+        bottom:0;
+        width:100%;
+        padding:20px;
+      }
+    </style>
+    <script>
+      function audioCtrl(){
+        var audio=document.getElementById("audio");
+        var ctrl=document.getElementById("mute-button");
+        if(audio.volume==0){
+          audio.volume=1;
+          ctrl.innerHTML="turn off audio";
+        }else{
+          audio.volume=0;
+          ctrl.innerHTML="turn on audio";
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <audio id="audio" autoplay loop>
+      <source src="media/elevator-music.mp3" type="audio/mpeg">
+      Twoja przeglądarka nie wspiera html5 audio !!! Sprawdź <a href=https://www.chromium.org/">Chromium</a>
+    </audio>
+    <header>
+      <a href="http://sarverott.github.io/">
+        <h1>SARVEROTT SOFTWARE</h1>
+      </a>
+      <nav>
+        <a href="http://sarverott.github.io/">
+          <button>
+            home
+          </button>
+        </a>
+        <a href="https://github.com/Sarverott/poj-b">
+          <button>
+            repository
+          </button>
+        </a>
+        <a href="index.php?game">
+          <button>
+            game
+          </button>
+        </a>
+        <button id="mute-button" onclick="audioCtrl()">
+          turn off audio
+        </button>
+      </nav>
+    </header>
+    <main>
+      Mały projekcik zrealizowany w nocy po imprezie (od jakoś półtory godziny po zamknięcia baru C4 jakoś do 9 lub 10 w weekend), mający na celu zademonstrowanie możliwości programu Construct
+    </main>
+    <footer>
+      <h3>SETT SARVEROTT @ 2019</h3>
+    </footer>
+  </body>
+</html>
